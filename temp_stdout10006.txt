@@ -1,5 +1,12 @@
 Computing rank from data with rank=None
-    Using tolerance 1.1e+02 (2.2e-16 eps * 22 dim * 2.3e+16  max singular value)
+    Using tolerance 1.1e+02 (2.2e-16 eps * 22 dim * 2.2e+16  max singular value)
+    Estimated rank (mag): 22
+    MAG: rank 22 computed from 22 data channels with 0 projectors
+Reducing data rank from 22 -> 22
+Estimating covariance using EMPIRICAL
+Done.
+Computing rank from data with rank=None
+    Using tolerance 1e+02 (2.2e-16 eps * 22 dim * 2.1e+16  max singular value)
     Estimated rank (mag): 22
     MAG: rank 22 computed from 22 data channels with 0 projectors
 Reducing data rank from 22 -> 22
@@ -13,27 +20,42 @@ Reducing data rank from 22 -> 22
 Estimating covariance using EMPIRICAL
 Done.
 Computing rank from data with rank=None
-    Using tolerance 1.1e+02 (2.2e-16 eps * 22 dim * 2.2e+16  max singular value)
+    Using tolerance 1e+02 (2.2e-16 eps * 22 dim * 2.1e+16  max singular value)
+    Estimated rank (mag): 22
+    MAG: rank 22 computed from 22 data channels with 0 projectors
+Reducing data rank from 22 -> 22
+Estimating covariance using EMPIRICAL
+Done.
+Time taken for csp calculations:  4.994871139526367
+Computing rank from data with rank=None
+    Using tolerance 76 (2.2e-16 eps * 22 dim * 1.6e+16  max singular value)
     Estimated rank (mag): 22
     MAG: rank 22 computed from 22 data channels with 0 projectors
 Reducing data rank from 22 -> 22
 Estimating covariance using EMPIRICAL
 Done.
 Computing rank from data with rank=None
-    Using tolerance 1.1e+02 (2.2e-16 eps * 22 dim * 2.1e+16  max singular value)
+    Using tolerance 74 (2.2e-16 eps * 22 dim * 1.5e+16  max singular value)
     Estimated rank (mag): 22
     MAG: rank 22 computed from 22 data channels with 0 projectors
 Reducing data rank from 22 -> 22
 Estimating covariance using EMPIRICAL
 Done.
-Time taken for csp calculations:  4.898869276046753
 Computing rank from data with rank=None
-    Using tolerance 82 (2.2e-16 eps * 22 dim * 1.7e+16  max singular value)
+    Using tolerance 73 (2.2e-16 eps * 22 dim * 1.5e+16  max singular value)
     Estimated rank (mag): 22
     MAG: rank 22 computed from 22 data channels with 0 projectors
 Reducing data rank from 22 -> 22
 Estimating covariance using EMPIRICAL
 Done.
+Computing rank from data with rank=None
+    Using tolerance 76 (2.2e-16 eps * 22 dim * 1.5e+16  max singular value)
+    Estimated rank (mag): 22
+    MAG: rank 22 computed from 22 data channels with 0 projectors
+Reducing data rank from 22 -> 22
+Estimating covariance using EMPIRICAL
+Done.
+Time taken for csp calculations:  4.704627513885498
 Computing rank from data with rank=None
     Using tolerance 79 (2.2e-16 eps * 22 dim * 1.6e+16  max singular value)
     Estimated rank (mag): 22
@@ -42,116 +64,65 @@ Reducing data rank from 22 -> 22
 Estimating covariance using EMPIRICAL
 Done.
 Computing rank from data with rank=None
-    Using tolerance 79 (2.2e-16 eps * 22 dim * 1.6e+16  max singular value)
+    Using tolerance 77 (2.2e-16 eps * 22 dim * 1.6e+16  max singular value)
     Estimated rank (mag): 22
     MAG: rank 22 computed from 22 data channels with 0 projectors
 Reducing data rank from 22 -> 22
 Estimating covariance using EMPIRICAL
 Done.
 Computing rank from data with rank=None
-    Using tolerance 81 (2.2e-16 eps * 22 dim * 1.7e+16  max singular value)
-    Estimated rank (mag): 22
-    MAG: rank 22 computed from 22 data channels with 0 projectors
-Reducing data rank from 22 -> 22
-Estimating covariance using EMPIRICAL
-Done.
-Time taken for csp calculations:  4.839641332626343
-Computing rank from data with rank=None
-    Using tolerance 83 (2.2e-16 eps * 22 dim * 1.7e+16  max singular value)
+    Using tolerance 77 (2.2e-16 eps * 22 dim * 1.6e+16  max singular value)
     Estimated rank (mag): 22
     MAG: rank 22 computed from 22 data channels with 0 projectors
 Reducing data rank from 22 -> 22
 Estimating covariance using EMPIRICAL
 Done.
 Computing rank from data with rank=None
-    Using tolerance 81 (2.2e-16 eps * 22 dim * 1.7e+16  max singular value)
+    Using tolerance 87 (2.2e-16 eps * 22 dim * 1.8e+16  max singular value)
+    Estimated rank (mag): 22
+    MAG: rank 22 computed from 22 data channels with 0 projectors
+Reducing data rank from 22 -> 22
+Estimating covariance using EMPIRICAL
+Done.
+Time taken for csp calculations:  4.614295721054077
+Computing rank from data with rank=None
+    Using tolerance 55 (2.2e-16 eps * 22 dim * 1.1e+16  max singular value)
     Estimated rank (mag): 22
     MAG: rank 22 computed from 22 data channels with 0 projectors
 Reducing data rank from 22 -> 22
 Estimating covariance using EMPIRICAL
 Done.
 Computing rank from data with rank=None
-    Using tolerance 83 (2.2e-16 eps * 22 dim * 1.7e+16  max singular value)
+    Using tolerance 55 (2.2e-16 eps * 22 dim * 1.1e+16  max singular value)
     Estimated rank (mag): 22
     MAG: rank 22 computed from 22 data channels with 0 projectors
 Reducing data rank from 22 -> 22
 Estimating covariance using EMPIRICAL
 Done.
 Computing rank from data with rank=None
-    Using tolerance 92 (2.2e-16 eps * 22 dim * 1.9e+16  max singular value)
-    Estimated rank (mag): 22
-    MAG: rank 22 computed from 22 data channels with 0 projectors
-Reducing data rank from 22 -> 22
-Estimating covariance using EMPIRICAL
-Done.
-Time taken for csp calculations:  5.050121784210205
-Computing rank from data with rank=None
-    Using tolerance 57 (2.2e-16 eps * 22 dim * 1.2e+16  max singular value)
+    Using tolerance 53 (2.2e-16 eps * 22 dim * 1.1e+16  max singular value)
     Estimated rank (mag): 22
     MAG: rank 22 computed from 22 data channels with 0 projectors
 Reducing data rank from 22 -> 22
 Estimating covariance using EMPIRICAL
 Done.
 Computing rank from data with rank=None
-    Using tolerance 57 (2.2e-16 eps * 22 dim * 1.2e+16  max singular value)
+    Using tolerance 56 (2.2e-16 eps * 22 dim * 1.2e+16  max singular value)
+    Estimated rank (mag): 22
+    MAG: rank 22 computed from 22 data channels with 0 projectors
+Reducing data rank from 22 -> 22
+Estimating covariance using EMPIRICAL
+Done.
+Time taken for csp calculations:  5.064465045928955
+Computing rank from data with rank=None
+    Using tolerance 44 (2.2e-16 eps * 22 dim * 9e+15  max singular value)
     Estimated rank (mag): 22
     MAG: rank 22 computed from 22 data channels with 0 projectors
 Reducing data rank from 22 -> 22
 Estimating covariance using EMPIRICAL
 Done.
 Computing rank from data with rank=None
-    Using tolerance 56 (2.2e-16 eps * 22 dim * 1.1e+16  max singular value)
-    Estimated rank (mag): 22
-    MAG: rank 22 computed from 22 data channels with 0 projectors
-Reducing data rank from 22 -> 22
-Estimating covariance using EMPIRICAL
-Done.
-Computing rank from data with rank=None
-    Using tolerance 59 (2.2e-16 eps * 22 dim * 1.2e+16  max singular value)
-    Estimated rank (mag): 22
-    MAG: rank 22 computed from 22 data channels with 0 projectors
-Reducing data rank from 22 -> 22
-Estimating covariance using EMPIRICAL
-Done.
-Time taken for csp calculations:  4.966007947921753
-Computing rank from data with rank=None
-    Using tolerance 45 (2.2e-16 eps * 22 dim * 9.2e+15  max singular value)
-    Estimated rank (mag): 22
-    MAG: rank 22 computed from 22 data channels with 0 projectors
-Reducing data rank from 22 -> 22
-Estimating covariance using EMPIRICAL
-Done.
-Computing rank from data with rank=None
-    Using tolerance 45 (2.2e-16 eps * 22 dim * 9.1e+15  max singular value)
-    Estimated rank (mag): 22
-    MAG: rank 22 computed from 22 data channels with 0 projectors
-Reducing data rank from 22 -> 22
-Estimating covariance using EMPIRICAL
-Done.
-Computing rank from data with rank=None
-    Using tolerance 42 (2.2e-16 eps * 22 dim * 8.7e+15  max singular value)
-    Estimated rank (mag): 22
-    MAG: rank 22 computed from 22 data channels with 0 projectors
-Reducing data rank from 22 -> 22
-Estimating covariance using EMPIRICAL
-Done.
-Computing rank from data with rank=None
-    Using tolerance 43 (2.2e-16 eps * 22 dim * 8.9e+15  max singular value)
-    Estimated rank (mag): 22
-    MAG: rank 22 computed from 22 data channels with 0 projectors
-Reducing data rank from 22 -> 22
-Estimating covariance using EMPIRICAL
-Done.
-Time taken for csp calculations:  4.810086250305176
-Computing rank from data with rank=None
-    Using tolerance 42 (2.2e-16 eps * 22 dim * 8.6e+15  max singular value)
-    Estimated rank (mag): 22
-    MAG: rank 22 computed from 22 data channels with 0 projectors
-Reducing data rank from 22 -> 22
-Estimating covariance using EMPIRICAL
-Done.
-Computing rank from data with rank=None
-    Using tolerance 42 (2.2e-16 eps * 22 dim * 8.7e+15  max singular value)
+    Using tolerance 44 (2.2e-16 eps * 22 dim * 8.9e+15  max singular value)
     Estimated rank (mag): 22
     MAG: rank 22 computed from 22 data channels with 0 projectors
 Reducing data rank from 22 -> 22
@@ -171,63 +142,92 @@ Computing rank from data with rank=None
 Reducing data rank from 22 -> 22
 Estimating covariance using EMPIRICAL
 Done.
-Time taken for csp calculations:  4.730493783950806
+Time taken for csp calculations:  5.033310413360596
 Computing rank from data with rank=None
-    Using tolerance 41 (2.2e-16 eps * 22 dim * 8.3e+15  max singular value)
+    Using tolerance 41 (2.2e-16 eps * 22 dim * 8.5e+15  max singular value)
     Estimated rank (mag): 22
     MAG: rank 22 computed from 22 data channels with 0 projectors
 Reducing data rank from 22 -> 22
 Estimating covariance using EMPIRICAL
 Done.
 Computing rank from data with rank=None
-    Using tolerance 40 (2.2e-16 eps * 22 dim * 8.3e+15  max singular value)
+    Using tolerance 42 (2.2e-16 eps * 22 dim * 8.5e+15  max singular value)
     Estimated rank (mag): 22
     MAG: rank 22 computed from 22 data channels with 0 projectors
 Reducing data rank from 22 -> 22
 Estimating covariance using EMPIRICAL
 Done.
 Computing rank from data with rank=None
-    Using tolerance 40 (2.2e-16 eps * 22 dim * 8.3e+15  max singular value)
+    Using tolerance 40 (2.2e-16 eps * 22 dim * 8.2e+15  max singular value)
     Estimated rank (mag): 22
     MAG: rank 22 computed from 22 data channels with 0 projectors
 Reducing data rank from 22 -> 22
 Estimating covariance using EMPIRICAL
 Done.
 Computing rank from data with rank=None
-    Using tolerance 40 (2.2e-16 eps * 22 dim * 8.3e+15  max singular value)
+    Using tolerance 41 (2.2e-16 eps * 22 dim * 8.4e+15  max singular value)
     Estimated rank (mag): 22
     MAG: rank 22 computed from 22 data channels with 0 projectors
 Reducing data rank from 22 -> 22
 Estimating covariance using EMPIRICAL
 Done.
-Time taken for csp calculations:  4.93924617767334
+Time taken for csp calculations:  4.9236836433410645
 Computing rank from data with rank=None
-    Using tolerance 38 (2.2e-16 eps * 22 dim * 7.7e+15  max singular value)
-    Estimated rank (mag): 22
-    MAG: rank 22 computed from 22 data channels with 0 projectors
-Reducing data rank from 22 -> 22
-Estimating covariance using EMPIRICAL
-Done.
-Computing rank from data with rank=None
-    Using tolerance 37 (2.2e-16 eps * 22 dim * 7.7e+15  max singular value)
+    Using tolerance 39 (2.2e-16 eps * 22 dim * 8.1e+15  max singular value)
     Estimated rank (mag): 22
     MAG: rank 22 computed from 22 data channels with 0 projectors
 Reducing data rank from 22 -> 22
 Estimating covariance using EMPIRICAL
 Done.
 Computing rank from data with rank=None
-    Using tolerance 37 (2.2e-16 eps * 22 dim * 7.6e+15  max singular value)
+    Using tolerance 39 (2.2e-16 eps * 22 dim * 8.1e+15  max singular value)
     Estimated rank (mag): 22
     MAG: rank 22 computed from 22 data channels with 0 projectors
 Reducing data rank from 22 -> 22
 Estimating covariance using EMPIRICAL
 Done.
 Computing rank from data with rank=None
-    Using tolerance 37 (2.2e-16 eps * 22 dim * 7.6e+15  max singular value)
+    Using tolerance 39 (2.2e-16 eps * 22 dim * 8e+15  max singular value)
     Estimated rank (mag): 22
     MAG: rank 22 computed from 22 data channels with 0 projectors
 Reducing data rank from 22 -> 22
 Estimating covariance using EMPIRICAL
 Done.
-Time taken for csp calculations:  5.138258218765259
+Computing rank from data with rank=None
+    Using tolerance 39 (2.2e-16 eps * 22 dim * 8e+15  max singular value)
+    Estimated rank (mag): 22
+    MAG: rank 22 computed from 22 data channels with 0 projectors
+Reducing data rank from 22 -> 22
+Estimating covariance using EMPIRICAL
+Done.
+Time taken for csp calculations:  4.643037557601929
+Computing rank from data with rank=None
+    Using tolerance 36 (2.2e-16 eps * 22 dim * 7.4e+15  max singular value)
+    Estimated rank (mag): 22
+    MAG: rank 22 computed from 22 data channels with 0 projectors
+Reducing data rank from 22 -> 22
+Estimating covariance using EMPIRICAL
+Done.
+Computing rank from data with rank=None
+    Using tolerance 36 (2.2e-16 eps * 22 dim * 7.4e+15  max singular value)
+    Estimated rank (mag): 22
+    MAG: rank 22 computed from 22 data channels with 0 projectors
+Reducing data rank from 22 -> 22
+Estimating covariance using EMPIRICAL
+Done.
+Computing rank from data with rank=None
+    Using tolerance 36 (2.2e-16 eps * 22 dim * 7.3e+15  max singular value)
+    Estimated rank (mag): 22
+    MAG: rank 22 computed from 22 data channels with 0 projectors
+Reducing data rank from 22 -> 22
+Estimating covariance using EMPIRICAL
+Done.
+Computing rank from data with rank=None
+    Using tolerance 35 (2.2e-16 eps * 22 dim * 7.3e+15  max singular value)
+    Estimated rank (mag): 22
+    MAG: rank 22 computed from 22 data channels with 0 projectors
+Reducing data rank from 22 -> 22
+Estimating covariance using EMPIRICAL
+Done.
+Time taken for csp calculations:  4.732739448547363
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

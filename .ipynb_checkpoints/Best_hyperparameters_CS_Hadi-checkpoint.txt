@@ -1,0 +1,2 @@
+
+{"norm_rate": 0.2, "nb_classes": 4, "learning_rate": 0.01, "kernLength": 32, "dropoutType": "SpatialDropout2D", "dropoutRate": 0.4, "Samples": 1123, "F2": 8, "F1": 4, "D": 2, "Chans": 64}

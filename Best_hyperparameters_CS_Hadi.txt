@@ -1,0 +1,8 @@
+
+{"norm_rate": 0.25, "nb_classes": 4, "learning_rate": 0.005, "kernLength": 64, "dropoutType": "Dropout", "dropoutRate": 0.2, "Samples": 1123, "F2": 32, "F1": 8, "D": 4, "Chans": 64}
+{"norm_rate": 0.25, "nb_classes": 4, "learning_rate": 0.005, "kernLength": 300, "dropoutType": "Dropout", "dropoutRate": 0.5, "Samples": 1123, "F2": 32, "F1": 8, "D": 4, "Chans": 64}
+{"norm_rate": 0.25, "nb_classes": 4, "learning_rate": 0.005, "kernLength": 64, "dropoutType": "Dropout", "dropoutRate": 0.5, "Samples": 1123, "F2": 32, "F1": 8, "D": 4, "Chans": 64}
+{"norm_rate": 0.25, "nb_classes": 4, "learning_rate": 0.005, "kernLength": 150, "dropoutType": "Dropout", "dropoutRate": 0.4, "Samples": 1123, "F2": 32, "F1": 8, "D": 4, "Chans": 64}
+{"norm_rate": 0.25, "nb_classes": 4, "learning_rate": 0.005, "kernLength": 300, "dropoutType": "Dropout", "dropoutRate": 0.2, "Samples": 1123, "F2": 32, "F1": 8, "D": 4, "Chans": 64}
+{"norm_rate": 0.25, "nb_classes": 4, "learning_rate": 0.005, "kernLength": 500, "dropoutType": "Dropout", "dropoutRate": 0.5, "Samples": 1123, "F2": 32, "F1": 8, "D": 4, "Chans": 64}
+{"norm_rate": 0.25, "nb_classes": 4, "learning_rate": 0.005, "kernLength": 125, "dropoutType": "Dropout", "dropoutRate": 0.2, "Samples": 1123, "F2": 32, "F1": 8, "D": 4, "Chans": 64}
